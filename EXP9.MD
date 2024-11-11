@@ -1,4 +1,4 @@
-# Ex.No: 9  Pytest program for Sum of Digits 
+# Ex.No: 13  Pytest program for Sum of Digits 
 
 ### DATE: 29.10.2024                                                                           
 ### REGISTER NUMBER : 212222040062
@@ -46,4 +46,3 @@ assert sumOfDigits(256) == 2
 
 ### Result:
 Thus, the python program for sum of digits is tested using pytest and executed and output is verified successfully.
-
